@@ -1,69 +1,30 @@
-# QuickCart - A simple eCommerce website
 
-QuickCart is an open-source **Next.js eCommerce frontend** project.  
-It provides a modern, fast and customizable shopping UI.  
-This repo is **frontend only** – contributors can improve the design, add new pages, animations and more.
+## 🛒 Project 1: QuickCart – eCommerce Website
 
----
+**QuickCart** is a modern **Next.js-based eCommerce web application** focusing on a clean UI, responsiveness, and modular design.
 
-## Features
+### ✨ Features
+- Product listing and product details
+- Shopping cart functionality
+- Order workflow
+- Seller dashboard
+- Responsive and modern UI
+- Reusable components
 
--   Built with **Next.js + Tailwind CSS**
--   Responsive design
--   Reusable components
--   Customizable layouts and colors
--   Open for contributions (UI/UX, animations, themes, layouts etc.)
+### 🛠 Tech Stack
+- **Frontend:** Next.js, React
+- **Styling:** CSS / Tailwind CSS
+- **Backend:** Next.js API Routes
+- **Database:** MongoDB (optional / configurable)
 
----
 
-## Getting Started
+### ▶️ Run Locally
+```bash
+cd CodeAlpha_Ecommerce-Website/Ecommerce-Website-main
+npm install
+npm run dev
 
-1. Clone the repo
 
-    ```bash
-    git clone https://github.com/GreatStackDev/QuickCart.git
-    cd QuickCart
-    ```
 
-2. Install dependencies
 
-    ```bash
-    npm install
-    ```
 
-3. Run locally
-
-    ```bash
-    npm run dev
-    ```
-
----
-
-## Contributing
-
-We welcome all kinds of contributions! You can:
-
-- Create new pages
-- Improve layouts
-- Add animations and transitions
-- Enhance responsiveness
-- Refactor components
-- Suggest new UI/UX ideas
-- Add themes or color variations
-- Introduce accessibility improvements
-- Add filtering/search features
-- Improve documentation
-
-Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Contributors
-
-Thanks to everyone who contributes to **QuickCart**!
